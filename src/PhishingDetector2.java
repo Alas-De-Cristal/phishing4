@@ -44,7 +44,7 @@ public class PhishingDetector2 {
 
 
         // Ruta del archivo de texto a analizar
-        String filePath ="C:/actividad6phishing/phishisn/Actividad 6/Archivo.txt";
+        String filePath ="C:/actividad6phishing/ctividad 6/Archivo.txt";
 
         // Realizar el análisis del archivo
         try {
